@@ -7,7 +7,8 @@ export default function Document() {
       <body>
         <Main />
         <NextScript />
+        <script src="../../node_modules/bootstrap/dist/js/bootstrap.bundle"></script>
       </body>
     </Html>
-  )
+  );
 }
